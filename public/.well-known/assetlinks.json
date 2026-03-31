@@ -1,0 +1,14 @@
+
+
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.suchy2023.DogWalkApp",
+      "sha256_cert_fingerprints": [
+        "81:B4:0A:99:4D:20:88:E6:29:DA:6D:40:3B:4E:34:45:6D:C2:52:2B:A6:5E:A0:72:5D:DB:EF:DB:85:24:55:19"
+      ]
+    }
+  }
+]
